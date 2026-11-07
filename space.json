@@ -1,0 +1,8 @@
+{
+  "runtime": "static",
+  "platformVersion": 15,
+  "entry": "index.html",
+  "name": "Công cụ tạo Banner MBBank",
+  "slug": "c-ng-c-t-o-banner-mbbank",
+  "managedCronJobs": []
+}
